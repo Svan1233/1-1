@@ -1,0 +1,7 @@
+C:\Users\Korisnik\source\repos\svanTipuric1-1\svanTipuric1-1\bin\Debug\svanTipuric1-1.exe.config
+C:\Users\Korisnik\source\repos\svanTipuric1-1\svanTipuric1-1\bin\Debug\svanTipuric1-1.exe
+C:\Users\Korisnik\source\repos\svanTipuric1-1\svanTipuric1-1\bin\Debug\svanTipuric1-1.pdb
+C:\Users\Korisnik\source\repos\svanTipuric1-1\svanTipuric1-1\obj\Debug\svanTipuric1-1.csprojAssemblyReference.cache
+C:\Users\Korisnik\source\repos\svanTipuric1-1\svanTipuric1-1\obj\Debug\svanTipuric1-1.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\svanTipuric1-1\svanTipuric1-1\obj\Debug\svanTipuric1-1.exe
+C:\Users\Korisnik\source\repos\svanTipuric1-1\svanTipuric1-1\obj\Debug\svanTipuric1-1.pdb
